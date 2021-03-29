@@ -1,0 +1,37 @@
+[{
+    "_id": {
+      "$oid": "5f15d5cdcb4a6642bddc0fe9e"
+    },
+    "name": "Men",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "5f15d545f3a046427a1c26e2"
+    },
+    "name": "Women",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "60097731382e241c40291624"
+    },
+    "name": "Bags",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "5f15d5b2cb4a6642bddc0fe7"
+    },
+    "name": "Music",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "5f15d5b7cb4a6642bddc0fe8"
+    },
+    "name": "Posters",
+    "__v": 0
+  },{
+    "_id": {
+      "$oid": "5f15d5cdcb4a6642bddc0fe9"
+    },
+    "name": "T-shirts",
+    "__v": 0
+  }]
