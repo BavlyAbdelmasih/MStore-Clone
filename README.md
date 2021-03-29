@@ -2,5 +2,5 @@
 A Clone for ecommerce-app using react-native
 
 ## ScreenShots :
-![alt text](https://github.com/bavly19/Sportive/blob/bavly/ScreenShots/1.png)
+![alt text](https://github.com/bavly19/MStore-Clone/blob/master/Apple%20iPhone%2011%20Pro%20Max%20Presentation%20(1).png)
 
